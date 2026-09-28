@@ -51,5 +51,4 @@ Secondary: Solidity (Hardhat, ethers.js).
 
 #### Contact
 
-<!-- TODO: LinkedIn URL -->
-<!-- TODO: email -->
+[LinkedIn](https://www.linkedin.com/in/lordmark-dorgu-801a36358) · [zaxellimited360@gmail.com](mailto:zaxellimited360@gmail.com)
