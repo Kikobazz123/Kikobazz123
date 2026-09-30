@@ -1,7 +1,13 @@
 ### Lordmark Dorgu
 
-Python & TypeScript developer building AI automations, agents and API integrations.
-Open to junior and contract roles.
+AI automation engineer. I build LLM pipelines where the model drafts, deterministic
+code decides, and a human approves anything that leaves the building.
+
+**Available now** for AI / automation engineering roles (remote, full-time or contract)
+and for automation projects for businesses: [zaxellimited360@gmail.com](mailto:zaxellimited360@gmail.com)
+
+**Live:** [BrightPath AI sales assistant](https://brightpath-dashboard.vercel.app) ·
+[LordGen business diagnostic](https://lordgen-ai-demo.vercel.app)
 
 ---
 
@@ -13,8 +19,9 @@ Open to junior and contract roles.
   *The model produces, deterministic code decides: every draft passes a claim
   validator before it can send, and a test enforces that no code path posts to a
   marketplace.*
-- **[lordgen-brightpath-dashboard](https://github.com/Kikobazz123/lordgen-brightpath-dashboard)**:
-  an AI sales assistant that captures, analyses, scores and follows up leads.
+- **[lordgen-brightpath-dashboard](https://github.com/Kikobazz123/lordgen-brightpath-dashboard)**
+  ([live](https://brightpath-dashboard.vercel.app)): an AI sales assistant that
+  captures, analyses, scores and follows up leads. Built for AI BuildFest 2026.
   Next.js 16, React 19, Drizzle, Neon, Zod.
   *The LLM only extracts evidence, each item quoted from the source; a pure,
   versioned rubric computes the score, so identical evidence always scores the same.*
@@ -29,8 +36,16 @@ Open to junior and contract roles.
   *Captions align the script to real word timings and refuse to render when too
   little of it matches; nothing publishes without a human.*
 
-Also: [learn-voting-system](https://github.com/Kikobazz123/learn-voting-system), a
-phased election contract in Solidity with Hardhat.
+Also:
+[lordgen-daily-report](https://github.com/Kikobazz123/lordgen-daily-report), a
+Trigger.dev job that emails a 07:00 build-progress and competitor-research brief ·
+[lordgen-competition-demo](https://github.com/Kikobazz123/lordgen-competition-demo),
+research → opportunity score → proposal → n8n starter automation, behind a human
+approval gate ([live](https://lordgen-ai-demo.vercel.app)) ·
+[doxa-church-agents](https://github.com/Kikobazz123/doxa-church-agents), free
+workflow agents on GitHub Actions ·
+[learn-voting-system](https://github.com/Kikobazz123/learn-voting-system), a phased
+election contract in Solidity with Hardhat.
 
 ---
 
@@ -51,4 +66,4 @@ Secondary: Solidity (Hardhat, ethers.js).
 
 #### Contact
 
-[LinkedIn](https://www.linkedin.com/in/lordmark-dorgu-801a36358) · [zaxellimited360@gmail.com](mailto:zaxellimited360@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/lordmark-dorgu-801a36358) · [zaxellimited360@gmail.com](mailto:zaxellimited360@gmail.com) · [LordGen](https://lordgen-ai-demo.vercel.app)
